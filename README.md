@@ -7,7 +7,7 @@ This project builds and evaluates linear regression models to predict house pric
 - **`Code/EDA.ipynb`** — Covers data profiling, distributions, and feature relationships.
 - **`Code/Main.ipynb`** — Includes preprocessing, model training, cross-validation, and evaluation.
 - **`Code/house_dataset.csv`** — Raw housing dataset used for training and evaluation.
-- **`Report/DSS5104_CA1_Report.docx/.pdf`** — Full written report documenting methodology, findings, and conclusions.
+- **`Report/`** — Full written report documenting methodology, findings, and conclusions.
 - **`results/`** — Output folder containing model metrics, CSVs, and prediction plots.
 
 ## Tools Used
@@ -24,5 +24,5 @@ This project builds and evaluates linear regression models to predict house pric
 
 ## About me
 
-Jason Huang
+Jason Huang \n
 MSc in Data Science for Sustainability 
