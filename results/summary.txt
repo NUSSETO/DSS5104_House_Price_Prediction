@@ -1,0 +1,23 @@
+Single Best Linear Model: Ridge(a = 10.0, wt)
+  MAPE:     0.1681
+  MAE:      $94,901
+  RMSE:     $180,765
+  R2:       0.8026
+  R2 (log): 0.8222
+
+Stacked Linear Model:
+  MAPE:     0.1674
+  MAE:      $93,972
+  RMSE:     $183,677
+  R2:       0.7962
+  R2 (log): 0.8238
+
+Best Linear Approach: Stacked Linear
+  MAPE: 0.1674
+
+XGBoost Benchmark:
+  MAPE:     0.1564
+  MAE:      $89,018
+  RMSE:     $207,897
+  R2:       0.7390
+  R2 (log): 0.8350
