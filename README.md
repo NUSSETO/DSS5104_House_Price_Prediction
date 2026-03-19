@@ -24,5 +24,6 @@ This project builds and evaluates linear regression models to predict house pric
 
 ## About me
 
-Jason Huang \n
+Jason Huang 
+
 MSc in Data Science for Sustainability 
